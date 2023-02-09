@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body,html{overflow:hidden}#loading,body,html{width:100%;height:100%}#loading{position:fixed;left:0;top:0;z-index:1;background:#000;display:flex;justify-content:center;align-items:center;text-align:center;color:#eee}#loading .progress-bar{width:50%;height:18px;border-radius:10px;border:1px solid #aaa;overflow:hidden}#loading .progress-bar .dot{width:0;height:100%;background:#aaa;transition:width 1s}#loading .percentage{margin-left:10px}
+/*# sourceMappingURL=style.b56d11bd.css.map */
